@@ -59,7 +59,7 @@ Projects & Labs
 *July 2025 – August 2025*  
 - Performed a Comprehensive Scan Of all Ports on My network Including OS detection using Nmap  
 
-## 🎓 Education & Certifications
+##  Education & Certifications
 
 - **Certified in Cybersecurity (CC)** – *(In Progress)* – ISC2  
 - **Introduction to Critical Infrastructure Protection (ICIP)** – OPSWAT  
@@ -70,16 +70,16 @@ Projects & Labs
 
 ---
 
-## 🧭 Career Goal
+##  Career Goal
 
 To evolve into a highly skilled **penetration tester** with a strong grasp of **GRC principles**, helping organizations bridge the gap between technical security and compliance. I aim to specialize in both **offensive security operations** and **governance frameworks** like ISO 27001 and NIST.
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
-- 📧 Email: [barryneyor6@gmail.com](mailto:barryneyor6@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/neyor-grant-99886127b](https://linkedin.com/in/neyor-grant-99886127b)
+-  Email: [barryneyor6@gmail.com](mailto:barryneyor6@gmail.com)  
+-  LinkedIn: [linkedin.com/in/neyor-grant-99886127b](https://linkedin.com/in/neyor-grant-99886127b)
 
 ---
 
