@@ -61,14 +61,14 @@ Projects & Labs
 
 ##  Education & Certifications
 
-- **Certified in Cybersecurity (CC)** – *(In Progress)* – ISC2  
-- **Introduction to Critical Infrastructure Protection (ICIP)** – OPSWAT  
-- **Ultimate GRC Masterclass** – Udemy  
-- **Python Full Course** – UniAthema  
-- **BSc. Computer Science** *(Future Plan)*  
+- **Certified in Cybersecurity (CC)** – *(In Progress)* Expected September 2025 
+- **Introduction to Critical Infrastructure Protection (ICIP)** – OPSWAT   
 - **O-Level Computer Science** – First International Academy
 
----
+**Training and Courses
+- Ultimate GRC masterclass by Udemy
+- Python Full Course by UniAthema
+- Certified in Cybersecurity Course by ISC2
 
 ##  Career Goal
 
