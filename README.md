@@ -79,7 +79,7 @@ To evolve into a highly skilled **penetration tester** with a strong grasp of **
 ##  Let's Connect
 
 -  Email: [barryneyor6@gmail.com](mailto:barryneyor6@gmail.com)  
--  LinkedIn: [linkedin.com/in/neyor-grant-99886127b](https://linkedin.com/in/neyor-grant-99886127b)
+
 
 ---
 
